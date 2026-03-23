@@ -6,7 +6,7 @@ Fullstack Developer
 
 * 🌍  I'm based in Colombia
 * ✉️  You can contact me at [jcardona701@outlook.com](mailto:jcardona701@outlook.com)
-* 🚀  I'm currently working on [BrontoByte for the company PRIS.](http://https://pesv.bronto-byte.com)
+* 🚀  I have worked for [BrontoByte for the company PRIS.](http://https://pesv.bronto-byte.com)
 * 🧠  I'm currently learning I'm learning flutter and everything related to mobile development and researching more about DevOps tools.
 * 💬  Ask me about I am still in my undergraduate degree in Systems Engineering and I am in the 7th semester.
 
